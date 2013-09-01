@@ -1,0 +1,5 @@
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQ3\bin\Debug\LINQ3.exe.config
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQ3\bin\Debug\LINQ3.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQ3\bin\Debug\LINQ3.pdb
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQ3\obj\Debug\LINQ3.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQ3\obj\Debug\LINQ3.pdb

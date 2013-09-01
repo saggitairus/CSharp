@@ -1,0 +1,6 @@
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEx\bin\Debug\LINQEx.exe.config
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEx\obj\Debug\LINQEx.csprojResolveAssemblyReference.cache
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEx\bin\Debug\LINQEx.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEx\bin\Debug\LINQEx.pdb
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEx\obj\Debug\LINQEx.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEx\obj\Debug\LINQEx.pdb

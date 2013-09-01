@@ -1,0 +1,5 @@
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEX2\bin\Debug\LINQEX2.exe.config
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEX2\bin\Debug\LINQEX2.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEX2\bin\Debug\LINQEX2.pdb
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEX2\obj\Debug\LINQEX2.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\LINQEX2\obj\Debug\LINQEX2.pdb
