@@ -1,0 +1,6 @@
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\exOfAnimousTypes\bin\Debug\exOfAnimousTypes.exe.config
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\exOfAnimousTypes\bin\Debug\exOfAnimousTypes.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\exOfAnimousTypes\bin\Debug\exOfAnimousTypes.pdb
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\exOfAnimousTypes\obj\Debug\exOfAnimousTypes.csprojResolveAssemblyReference.cache
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\exOfAnimousTypes\obj\Debug\exOfAnimousTypes.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\exOfAnimousTypes\obj\Debug\exOfAnimousTypes.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\bin\Debug\CalculateFaceToFigures.exe.config
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\obj\Debug\CalculateFaceToFigures.csprojResolveAssemblyReference.cache
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\obj\Debug\CalculateFaceToFigures.Properties.Resources.resources
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\obj\Debug\CalculateFaceToFigures.csproj.GenerateResource.Cache
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\bin\Debug\CalculateFaceToFigures.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\bin\Debug\CalculateFaceToFigures.pdb
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\obj\Debug\CalculateFaceToFigures.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CalculateFaceToFigures\obj\Debug\CalculateFaceToFigures.pdb

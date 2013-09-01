@@ -1,0 +1,6 @@
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\DelegatsEx\bin\Debug\DelegatsEx.exe.config
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\DelegatsEx\bin\Debug\DelegatsEx.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\DelegatsEx\bin\Debug\DelegatsEx.pdb
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\DelegatsEx\obj\Debug\DelegatsEx.csprojResolveAssemblyReference.cache
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\DelegatsEx\obj\Debug\DelegatsEx.exe
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\DelegatsEx\obj\Debug\DelegatsEx.pdb

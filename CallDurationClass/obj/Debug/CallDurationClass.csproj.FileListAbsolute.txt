@@ -1,0 +1,2 @@
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CallDurationClass\bin\Debug\CallDurationClass.exe.config
+C:\Users\Jelin\documents\visual studio 2012\Projects\OOPtRaining\CallDurationClass\obj\Debug\CallDurationClass.csprojResolveAssemblyReference.cache
